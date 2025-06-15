@@ -16,7 +16,7 @@ For the second task, I developed a Java program that fetches data from a public 
 
 "OUTPUT"
 
-
+![Image](https://github.com/user-attachments/assets/23350a62-b82b-4c92-b66c-dc9d1c623f0d)
 
 
 
